@@ -1,5 +1,8 @@
 # Local-only setup notes — do not push
 /README.md
 
+# Generated PNG copies of the mark (used for avatar upload only)
+profile/assets/*.png
+
 # macOS
 .DS_Store
