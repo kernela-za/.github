@@ -4,17 +4,9 @@
 
 # KERNELA
 
-### Foundational compute.
+### Agent Processing Unit
 
 _From first principles._
-
-</div>
-
-<br>
-
-<div align="center">
-
-`JOHANNESBURG`
 
 </div>
 
