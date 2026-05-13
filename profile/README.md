@@ -24,7 +24,7 @@ _From first principles._
 
 <div align="center">
 
-© 2026 Kernela (Pty) Ltd · 1 Wedgewood Link Road, Bryanston, 2191<br>
+© 2026 Kernela (Pty) Ltd · Johannesburg, South Africa<br>
 <a href="mailto:info@kernela.ai">info@kernela.ai</a> · <a href="https://kernela.ai">kernela.ai</a>
 
 </div>
